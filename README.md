@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_SLUG">
+  <a href="https://www.linkedin.com/in/mher-farhan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:farhan.muhammed9998@gmail.com">
