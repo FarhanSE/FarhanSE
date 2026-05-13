@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_SLUG">
+  <a href="https://linkedin.com/in/mher-farhan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:farhan.muhammed9998@gmail.com">
@@ -177,7 +177,7 @@ Not marketing. Check the commit history.
   </tr>
   <tr>
     <td valign="top" width="33%">
-      <h3>🗺️ MapPort</h3>
+      <h3>🗺️ MapPort &nbsp;<img src="https://img.shields.io/badge/LEAD-00d4ff?style=flat-square&logoColor=black"/></h3>
       <strong>GIS Parcel Visualization Platform</strong><br/><br/>
       Real-time geospatial parcel analytics serving property and land management teams. PostGIS spatial queries, GeoDjango, and async Celery pipelines for report generation. Cut processing time <strong>40%</strong>. High-availability AWS EC2 and RDS deployment behind NGINX.<br/><br/>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
@@ -187,7 +187,7 @@ Not marketing. Check the commit history.
       <a href="https://mapport.com">🔗 mapport.com</a>
     </td>
     <td valign="top" width="33%">
-      <h3>📡 County Broadband</h3>
+      <h3>📡 County Broadband &nbsp;<img src="https://img.shields.io/badge/LEAD-00d4ff?style=flat-square&logoColor=black"/></h3>
       <strong>UK Full-Fibre ISP: GIS Network Tooling</strong><br/><br/>
       Built a QGIS Plugin in Python and PyQt5 for the network planning team: snapping tools, polygon merging, and multi-threaded processing for large fibre route datasets. Mentored junior developers. Promoted to <strong>project lead within 7 months</strong>.<br/><br/>
       <img src="https://img.shields.io/badge/QGIS_Plugin-589632?style=flat-square&logo=qgis&logoColor=white"/>
@@ -197,7 +197,7 @@ Not marketing. Check the commit history.
       <a href="https://countybroadband.co.uk">🔗 countybroadband.co.uk</a>
     </td>
     <td valign="top" width="33%">
-      <h3>⚡ BeMomentIQ</h3>
+      <h3>⚡ BeMomentIQ &nbsp;<img src="https://img.shields.io/badge/LEAD-00d4ff?style=flat-square&logoColor=black"/></h3>
       <strong>Affiliate Marketing Automation</strong><br/><br/>
       Django and PostgreSQL backend with OpenAI-powered campaign intelligence and Discord bots handling real-time creator engagement. Celery handles weekly partner API sync automatically: no manual intervention needed.<br/><br/>
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
