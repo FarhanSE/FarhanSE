@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:051825,80:082135,100:0a2540&height=230&section=header&text=Muhammad%20Farhan&fontSize=58&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Senior%20Python%20%E2%80%A2%20AI%20Architect%20%E2%80%A2%20Full%20Stack%20Engineer&descAlignY=60&descColor=4a7c99&descSize=19"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:051825,80:082135,100:0a2540&height=230&section=header&text=Muhammad%20Farhan&fontSize=58&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Senior%20Python%20%E2%80%A2%20AI%20Architect%20%E2%80%A2%20Cloud%20Engineer%20%E2%80%A2%20Full%20Stack&descAlignY=60&descColor=4a7c99&descSize=18"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&width=760&height=45&lines=%F0%9F%A4%96+Architecting+AI+systems+that+think+at+scale;%E2%9A%A1+LangGraph+%7C+CrewAI+%7C+Claude+API+%7C+MCP;%F0%9F%8F%97+Microservices+%7C+Async+%7C+Zero-downtime+deploys;%F0%9F%9A%80+6%2B+years+%E2%80%A2+10+shipped+products+%E2%80%A2+0+excuses" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&width=760&height=45&lines=%F0%9F%A4%96+Building+AI+agents+that+reason%2C+plan+and+execute;%E2%9A%A1+LangGraph+%7C+CrewAI+%7C+Claude+API+%7C+MCP+%7C+Claude+Code;%F0%9F%8F%97+8+countries+%7C+10+products+shipped+%7C+0+excuses;%F0%9F%9A%80+From+requirements+to+production+%E2%80%94+fast" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -18,7 +18,6 @@
   <a href="https://github.com/FarhanSE">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=FarhanSE&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS"/>
 </div>
 
 ---
@@ -27,20 +26,20 @@
 
 ```python
 class MuhammadFarhan:
-    role     = "Senior Python & AI Engineer"
+    role     = "Senior Python, AI and Cloud Engineer"
     location = "Lahore, Pakistan  |  Open to global remote"
-    edge     = "I architect systems, not just scripts"
-    approach = "Agentic AI + scalable backends + battle-tested cloud infra"
+    edge     = "I architect systems, not just write scripts"
+    approach = "Agentic AI pipelines + battle-tested cloud infra + fast delivery"
 
     stack = {
-        "ai_agents"  : ["LangGraph", "CrewAI", "Claude API", "MCP", "OpenAI API"],
+        "ai_agents"  : ["LangGraph", "CrewAI", "Claude API", "Claude Code", "MCP", "OpenAI"],
         "backend"    : ["Django", "FastAPI", "Celery", "Redis", "Async IO"],
-        "data"       : ["PostGIS", "Pandas", "Pinecone", "ETL Pipelines"],
+        "data"       : ["PostGIS", "HuggingFace", "Pinecone", "ETL Pipelines"],
         "cloud"      : ["ECS Fargate", "Lambda", "Aurora PG", "CDK (TS)", "OIDC CI/CD"],
         "frontend"   : ["React.js", "Next.js", "TypeScript", "Tailwind CSS"],
     }
 
-    superpower = "Pick up any technology  ship production-grade code fast"
+    superpower = "Hand me any stack, any domain. I will ship."
 ```
 
 ---
@@ -55,38 +54,39 @@ class MuhammadFarhan:
 
 ## 🤖 The Agentic Edge
 
-> I don't just prompt AI — I build systems that **orchestrate** it.
+> I don't just prompt AI. I build systems where AI does the work.
 
-Most engineers use AI as a tool. I use it as a **collaborator, planner, and executor** — building autonomous pipelines that handle research, decisions, and actions end-to-end.
+Most engineers treat AI as an autocomplete. I treat it as a **runtime**: agents that plan, delegate, use tools, and close the loop without hand-holding.
 
 **What this looks like in production:**
 
-- **LangGraph** — stateful multi-agent graphs with conditional routing, memory layers, and tool-use across complex workflows
-- **CrewAI** — role-based agent teams for research, extraction, and multi-step reasoning at scale
-- **Claude API + MCP** — context-aware agents with custom tool integrations, structured outputs, and long-horizon task execution
-- **RAG Pipelines** — Pinecone & pgvector from raw document ingestion to sub-second semantic search, production-ready
-- **Cursor + Codex AI** — AI-augmented dev workflow: sprint-length tasks compressed into hours, not weeks
-- **Custom Prompt Engineering** — few-shot pipelines, chain-of-thought orchestration, 85%+ accuracy verified in production
+- **LangGraph**: stateful agent graphs with conditional routing, memory layers, and multi-step tool-use across long-horizon tasks
+- **CrewAI**: role-based agent crews for research, structured extraction, and parallel reasoning workflows
+- **Claude API + MCP**: context-aware agents with custom tool registries, long-context reasoning, and structured JSON outputs
+- **Claude Code (terminal)**: AI-native dev environment for shipping features, writing tests, debugging, and refactoring at full speed directly from the terminal
+- **Cursor + Codex**: sprint-length tasks compressed into hours; entire modules scaffolded in minutes
+- **RAG Pipelines**: Pinecone and pgvector, from raw document ingestion to sub-100ms semantic search in production
+- **Prompt Engineering**: few-shot chains, chain-of-thought orchestration, output parsers with 85%+ verified production accuracy
 
 ```
-Workflows that took months  now run in hours.
-That is not a claim. That is a commit log.
+Work that used to take months now runs in hours.
+Not marketing. Check the commit history.
 ```
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-0a0a0a?style=flat-square&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code_Terminal-CC785C?style=flat-square&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_Integration-1C1C1C?style=flat-square&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=flat-square&logoColor=white)
 ![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-1a6b3c?style=flat-square&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone_VectorDB-000000?style=flat-square&logoColor=white)
 
 ---
 
 ## 🛠️ Tech Arsenal
 
-### ⚙️ Backend & Infrastructure
+### ⚙️ Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -102,7 +102,7 @@ That is not a claim. That is a commit log.
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-### ☁️ Cloud & Infrastructure
+### ☁️ Cloud and Infrastructure
 ![ECS Fargate](https://img.shields.io/badge/ECS_Fargate-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 ![Aurora PostgreSQL](https://img.shields.io/badge/Aurora_PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -113,12 +113,13 @@ That is not a claim. That is a commit log.
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_OIDC-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-> 🔒 HIPAA-compliant deployments · Blue/Green with auto-rollback · No SSH, no long-lived credentials · Encryption at rest & in transit
+> 🔒 HIPAA-compliant deployments · Blue/Green with auto-rollback · No SSH, no long-lived credentials · Encryption at rest and in transit
 
-### 🌍 GIS & Data Engineering
+### 🌍 GIS and Data Engineering
 ![GeoDjango](https://img.shields.io/badge/GeoDjango-092E20?style=flat-square&logo=django&logoColor=4caf50)
 ![PostGIS](https://img.shields.io/badge/PostGIS-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS_Plugin_Dev-589632?style=flat-square&logo=qgis&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=flat-square&logo=playwright&logoColor=white)
 
@@ -128,10 +129,57 @@ That is not a claim. That is a commit log.
 
 <table>
   <tr>
+    <td valign="top" colspan="3">
+      <h3>⛏️ MapMyMine &nbsp;<img src="https://img.shields.io/badge/LEAD-00d4ff?style=flat-square&logoColor=black"/></h3>
+      <strong>Mine Rehabilitation Tracking and 3D GIS Visualization Platform</strong><br/><br/>
+      Multi-tenant SaaS for mining operations worldwide: tracks rehabilitation progress, visualizes mine data in 3D, and gives operators a single source of truth across sites. I led the entire product from zero: client discovery sessions, Figma design direction, React frontend, Django backend, GIS data engineering, and HuggingFace model deployment for lightweight inference. Built the ETL pipeline that ingests complex mine GIS datasets into the platform and architected the multi-tenant data layer so each mining company's data stays isolated and secure. The one project where I owned every layer of the stack.<br/><br/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+      <img src="https://img.shields.io/badge/PostGIS-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ETL_Pipeline-1a6b3c?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Multi--tenant-0a2540?style=flat-square&logoColor=00d4ff"/>
+      <br/><br/>
+      <a href="https://mapmymine.com">🔗 mapmymine.com</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>🚛 Truckast</h3>
+      <strong>Concrete Fleet Activity Intelligence</strong><br/><br/>
+      Used at the Wilshire Grand: the largest concrete pour in history: 2,000+ truckloads over 20 hours. I built the activity prediction engine: GPT-4 few-shot prompting on GPS telemetry, drum rotation sensors, and speed data to classify each truck's state (loading, transit, pouring, washout) at <strong>85%+ accuracy</strong>. The live map dashboard feeds directly into automated, billing-ready job records for clients including Concrete Supply Co. and Firth Concrete.<br/><br/>
+      <img src="https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GPS_Telemetry-232F3E?style=flat-square&logoColor=white"/>
+      <br/><br/>
+      <a href="https://truckast.com">🔗 truckast.com</a>
+    </td>
+    <td valign="top" width="33%">
+      <h3>💬 Dialog</h3>
+      <strong>AI Stakeholder Intelligence (Netherlands)</strong><br/><br/>
+      Policy and advocacy teams were spending months manually mapping stakeholder networks. I integrated OpenAI APIs for stakeholder identification and influence scoring, then built a RAG pipeline on top. What took months now takes a single query. FastAPI wrapper deployed on AWS EC2.<br/><br/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RAG_Pipeline-1a6b3c?style=flat-square&logoColor=white"/>
+      <br/><br/>
+      <a href="https://dialog.nl">🔗 dialog.nl</a>
+    </td>
+    <td valign="top" width="33%">
+      <h3>🐝 HiveHQ</h3>
+      <strong>AI Creator Outreach Platform</strong><br/><br/>
+      Django REST Framework powering TikTok Shop and Creator Auth API integrations at scale. Owned the full AWS deployment (EC2, S3, RDS) and rebuilt the Celery task pipeline to push throughput up <strong>60%</strong> through async parallelism. Thousands of creator campaigns running without intervention.<br/><br/>
+      <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900"/>
+      <br/><br/>
+      <a href="https://hivehq.ai">🔗 hivehq.ai</a>
+    </td>
+  </tr>
+  <tr>
     <td valign="top" width="33%">
       <h3>🗺️ MapPort</h3>
       <strong>GIS Parcel Visualization Platform</strong><br/><br/>
-      Real-time geospatial analytics — PostGIS, GeoDjango, async Celery. Reduced processing time <strong>40%</strong>. HA deploy on AWS EC2 + RDS behind NGINX.<br/><br/>
+      Real-time geospatial parcel analytics serving property and land management teams. PostGIS spatial queries, GeoDjango, and async Celery pipelines for report generation. Cut processing time <strong>40%</strong>. High-availability AWS EC2 and RDS deployment behind NGINX.<br/><br/>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostGIS-316192?style=flat-square&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
@@ -139,19 +187,19 @@ That is not a claim. That is a commit log.
       <a href="https://mapport.com">🔗 mapport.com</a>
     </td>
     <td valign="top" width="33%">
-      <h3>🐝 HiveHQ</h3>
-      <strong>AI Creator Outreach Platform</strong><br/><br/>
-      Django REST Framework + TikTok Shop APIs + Celery pipelines. Owned full AWS deployment. Task throughput up <strong>60%</strong> via async parallelism.<br/><br/>
-      <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900"/>
+      <h3>📡 County Broadband</h3>
+      <strong>UK Full-Fibre ISP: GIS Network Tooling</strong><br/><br/>
+      Built a QGIS Plugin in Python and PyQt5 for the network planning team: snapping tools, polygon merging, and multi-threaded processing for large fibre route datasets. Mentored junior developers. Promoted to <strong>project lead within 7 months</strong>.<br/><br/>
+      <img src="https://img.shields.io/badge/QGIS_Plugin-589632?style=flat-square&logo=qgis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <br/><br/>
-      <a href="https://hivehq.ai">🔗 hivehq.ai</a>
+      <a href="https://countybroadband.co.uk">🔗 countybroadband.co.uk</a>
     </td>
     <td valign="top" width="33%">
       <h3>⚡ BeMomentIQ</h3>
       <strong>Affiliate Marketing Automation</strong><br/><br/>
-      Django + PostgreSQL + OpenAI + Discord bots for creator engagement. Automated weekly partner sync; live React analytics dashboards.<br/><br/>
+      Django and PostgreSQL backend with OpenAI-powered campaign intelligence and Discord bots handling real-time creator engagement. Celery handles weekly partner API sync automatically: no manual intervention needed.<br/><br/>
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -161,48 +209,16 @@ That is not a claim. That is a commit log.
   </tr>
   <tr>
     <td valign="top" width="33%">
-      <h3>📡 County Broadband</h3>
-      <strong>UK Full-Fibre ISP — GIS Tooling</strong><br/><br/>
-      Built a QGIS Plugin in Python + PyQt for advanced geospatial network planning: snapping, polygon merging, multi-threaded big-data processing. Mentored juniors; promoted to <strong>project lead in 7 months</strong>.<br/><br/>
-      <img src="https://img.shields.io/badge/QGIS_Plugin-589632?style=flat-square&logo=qgis&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <br/><br/>
-      <a href="https://countybroadband.co.uk">🔗 countybroadband.co.uk</a>
-    </td>
-    <td valign="top" width="33%">
       <h3>🌱 Agriplot</h3>
       <strong>GIS Agricultural Mapping Platform</strong><br/><br/>
-      File upload & processing on AWS S3 + Celery. APIs for GIS data visualization and precision agriplot mapping. EC2 deploy with Gunicorn + cron automation.<br/><br/>
+      AWS S3 upload and processing pipelines via Celery, REST APIs for GIS data visualization and precision agriplot mapping. EC2 deployment with Gunicorn and cron jobs for scheduled data refreshes.<br/><br/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900"/>
       <img src="https://img.shields.io/badge/PostGIS-316192?style=flat-square&logo=postgresql&logoColor=white"/>
       <br/><br/>
       <a href="https://agriplot.earth">🔗 agriplot.earth</a>
     </td>
-    <td valign="top" width="33%">
-      <h3>💬 Dialog</h3>
-      <strong>AI Stakeholder Intelligence — Netherlands</strong><br/><br/>
-      OpenAI API integration for stakeholder identification and influence mapping. Built a RAG pipeline that compressed <strong>months of research into hours</strong>. FastAPI wrapper on AWS EC2.<br/><br/>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/RAG_Pipeline-1a6b3c?style=flat-square&logoColor=white"/>
-      <br/><br/>
-      <a href="https://dialog.nl">🔗 dialog.nl</a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="66%" colspan="2">
-      <h3>🚛 Truckast</h3>
-      <strong>AI Activity Intelligence for Concrete Fleet Operations</strong><br/><br/>
-      Truckast is a real-time platform connecting concrete producers, contractors, and truckers — deployed in the <strong>largest concrete pour in history</strong> (Wilshire Grand: 2,000+ truckloads over 20 hours). I built the AI brain behind it: predicting truck activity states (loading, transit, pouring, washout) from GPS telemetry, drum rotation sensors, and speed data using GPT-4 few-shot prompting — achieving <strong>85%+ accuracy</strong>. Designed the live map dashboard that surfaces truck location and activity status, enabling automated billing-ready job records for clients like Concrete Supply Co., Firth Concrete, and Dolese.<br/><br/>
-      <img src="https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GPS_Telemetry-232F3E?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Real--time_Maps-1a6b3c?style=flat-square&logoColor=white"/>
-      <br/><br/>
-      <a href="https://truckast.com">🔗 truckast.com</a>
-    </td>
+    <td valign="top" width="33%"></td>
     <td valign="top" width="33%"></td>
   </tr>
 </table>
