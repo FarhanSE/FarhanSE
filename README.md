@@ -3,22 +3,20 @@
 </div>
 
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&width=760&height=45&lines=🤖+Architecting+AI+systems+that+think+at+scale;⚡+LangChain+%7C+LangGraph+%7C+CrewAI+%7C+OpenAI+API;🏗️+Microservices+%7C+Async+%7C+Zero-downtime+deploys;🚀+6%2B+years%2C+3+shipped+SaaS+products%2C+0+excuses" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&width=760&height=45&lines=%F0%9F%A4%96+Architecting+AI+systems+that+think+at+scale;%E2%9A%A1+LangChain+%7C+LangGraph+%7C+CrewAI+%7C+OpenAI+API;%F0%9F%8F%97+Microservices+%7C+Async+%7C+Zero-downtime+deploys;%F0%9F%9A%80+6%2B+years%2C+3+shipped+SaaS+products%2C+0+excuses" alt="Typing SVG"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/farhan-muhammed9998">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_SLUG">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:farhan.muhammed9998@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://mapport.com">
-    <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+  <a href="https://github.com/FarhanSE">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=FarhanSE&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS"/>
 </div>
@@ -31,6 +29,7 @@
 class MuhammadFarhan:
     role     = "Senior Python & AI Engineer"
     location = "Lahore, Pakistan 🇵🇰  |  Open to global remote"
+    current  = "ACME-ONE — AI-driven SaaS Platform"
     edge     = "I architect systems, not just scripts"
 
     stack = {
@@ -48,11 +47,14 @@ class MuhammadFarhan:
 
 ## 📊 GitHub Activity
 
-<div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=FarhanSE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=8892a4&border_radius=12&rank_icon=github&count_private=true"/>
-  &nbsp;&nbsp;
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanSE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=8892a4&border_radius=12&langs_count=8"/>
-</div>
+<table align="center"><tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=FarhanSE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=8892a4&border_radius=12&count_private=true&cache_seconds=86400"/>
+</td>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanSE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=8892a4&border_radius=12&langs_count=8&cache_seconds=86400"/>
+</td>
+</tr></table>
 
 <br/>
 
@@ -66,17 +68,17 @@ class MuhammadFarhan:
 
 ### 🤖 AI & Agents
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=00d4ff)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logo=robot&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0a0a0a?style=flat-square&logoColor=00d4ff)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Pinecone](https://img.shields.io/badge/Pinecone_VectorDB-000000?style=flat-square&logo=pinecone&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone_VectorDB-000000?style=flat-square&logoColor=white)
 
 ### ⚙️ Backend & Infrastructure
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
@@ -126,10 +128,10 @@ class MuhammadFarhan:
     <td valign="top" width="33%">
       <h3>🐝 HiveHQ</h3>
       <strong>AI Creator Outreach Platform</strong><br/><br/>
-      Django + TikTok Shop & Creator Auth APIs + Celery. Boosted background task throughput by <strong>60%</strong>. Real-time campaign sync with async parallelism at scale.<br/><br/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"/>
+      Django REST Framework + TikTok Shop & Creator Auth APIs + Celery automation pipelines. Handled full AWS deployment (EC2, S3, RDS). Background task throughput up <strong>60%</strong> via async parallelism.<br/><br/>
+      <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900"/>
       <br/><br/>
       <a href="https://hivehq.ai">🔗 hivehq.ai</a>
     </td>
@@ -145,14 +147,6 @@ class MuhammadFarhan:
     </td>
   </tr>
 </table>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/FarhanSE/FarhanSE/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
-</div>
 
 ---
 
