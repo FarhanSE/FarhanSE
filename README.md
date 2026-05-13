@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&width=760&height=45&lines=%F0%9F%A4%96+Architecting+AI+systems+that+think+at+scale;%E2%9A%A1+LangChain+%7C+LangGraph+%7C+CrewAI+%7C+OpenAI+API;%F0%9F%8F%97+Microservices+%7C+Async+%7C+Zero-downtime+deploys;%F0%9F%9A%80+6%2B+years%2C+3+shipped+SaaS+products%2C+0+excuses" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&width=760&height=45&lines=%F0%9F%A4%96+Architecting+AI+systems+that+think+at+scale;%E2%9A%A1+LangChain+%7C+LangGraph+%7C+CrewAI+%7C+OpenAI+API;%F0%9F%8F%97+Microservices+%7C+Async+%7C+Zero-downtime+deploys;%F0%9F%9A%80+6%2B+years%2C+10+shipped+SaaS+products%2C+0+excuses" alt="Typing SVG"/>
 </div>
 
 <br/>
